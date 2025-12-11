@@ -17,5 +17,5 @@ Ideal para practicar entrada de datos, variables y operadores en Python.
 ## ▶️ Cómo usar
 
 1. Asegurate de tener **Python 3** instalado.  
-2. Ejecutá este comando dentro de la carpeta del proyecto: generadorcontraseñas.py
+2. Ejecutá este comando dentro de la carpeta del proyecto: contraseñas.py
 
